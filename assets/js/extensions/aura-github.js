@@ -38,7 +38,16 @@ define({
             app.core.mediator.emit('github.error', error);
           }
         },
-        success: dfd.resolve,
+        success: function(res) {
+          try {
+            if (typeof res === 'string') {
+              res = JSON.parse(res);
+            }
+            dfd.resolve(res);
+          } catch(e) {
+            dfd.reject(e);
+          }
+        },
         error: dfd.reject
       });
       return dfd;
