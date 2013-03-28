@@ -1,9 +1,12 @@
 <% _.each(repos, function(repo) { %>
   <li class="item">
     <div class="shape">
-      <a class="item-content" href="<%= repo.html_url %>">
+      <div class="item-content" data-href="<%= repo.html_url %>">
         <div class="content">
           <h3 class="title"><%= _.escape(repo.name) %></h3>
+          <% if (repo.homepage) { %>
+            <a href="<%= repo.homepage %>" class="url"><%= repo.homepage %></a>
+          <% } %>
           <p class="description"><%= _.escape(repo.description) %></p>
           <small class="date">Last updated <%= relativeTime(repo.pushed_at) %></small>
         </div>
@@ -22,7 +25,7 @@
           <%= repo.forks_count %>
         </span>
       </footer>
-      </a>
+      </div>
     </div>
   </li>
 <% }); %>

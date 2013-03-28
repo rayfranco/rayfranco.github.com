@@ -7,7 +7,7 @@
 /*------------------------------------*\
     Compass
 \*------------------------------------*/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000317}}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -29,45 +29,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000322}}
 html {
   line-height: 1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000324}}
 ol, ul {
   list-style: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000326}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000328}}
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000330}}
 q, blockquote {
   quotes: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003103}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003103}}
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000332}}
 a img {
   border: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003116}}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -78,25 +78,20 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 /*------------------------------------*\
     Projects styles
 \*------------------------------------*/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\0000361}}
-* html {
-  font-size: 100%;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\00003105}}
 html {
-  font-size: 16px;
+  font-size: 100%;
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_base\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_base\.scss}line{font-family:\000033}}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_base\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_base\.scss}line{font-family:\000037}}
 body {
   font: 16px/24px "Open sans", sans-serif;
   color: #333333;
@@ -105,22 +100,22 @@ body {
   background-color: #f1f3f5;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_base\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_base\.scss}line{font-family:\0000315}}
 a {
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_base\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_base\.scss}line{font-family:\0000316}}
 a:hover {
   color: #009cff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_base\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_base\.scss}line{font-family:\0000318}}
 strong {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_base\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_base\.scss}line{font-family:\0000319}}
 em {
   font-style: italic;
 }
@@ -142,77 +137,77 @@ em {
  *          </div>
  *      </div>
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000318}}
 .md {
   *zoom: 1;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
 .md:after {
   content: "";
   display: table;
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\000033}}
 .md .bd {
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000313}}
 .md .img {
   float: left;
   margin-right: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000315}}
 .md .img img {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000320}}
 .md.md-10 .img {
   margin-right: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000323}}
 .md-rev {
   *zoom: 1;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
 .md-rev:after {
   content: "";
   display: table;
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\000033}}
 .md-rev .bd {
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000313}}
 .md-rev .img {
   float: right;
   margin-left: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000315}}
 .md-rev .img img {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000325}}
 .md-rev.md-10 .img {
   margin-left: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000331}}
 .stat-number {
   font-size: 1em;
   line-height: 1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000334}}
 .stat-label {
   font-size: 0.75em;
   line-height: 2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000341}}
 .list-stat {
   position: relative;
   display: table;
@@ -220,25 +215,25 @@ em {
   table-layout: fixed;
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000347}}
 .list-stat .stat-number {
   font-size: 1.25em;
   line-height: 1.2em;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000351}}
 .list-stat .stat-label {
   font-size: 0.75em;
   line-height: 2em;
   opacity: .75;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000356}}
 .list-stat li {
   position: relative;
   display: table-cell;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000359}}
 .list-stat li + li:before {
   content: "";
   position: absolute;
@@ -252,54 +247,54 @@ em {
 /*------------------------------------*\
     Helpers
 \*------------------------------------*/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000371}}
 .float-right {
   float: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000372}}
 .float-left {
   float: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000373}}
 .upper {
   text-transform: uppercase;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000374}}
 .small, small {
   font-size: 0.6875em;
   line-height: 2.1818181818181817em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000375}}
 .align-right {
   text-align: right;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000376}}
 .align-left {
   text-align: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000377}}
 .align-center {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000378}}
 .bold, .meta, .item .title, .item--profile--small .profile-name, .profile-name {
   font-weight: bold;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000379}}
 .italic {
   font-style: italic;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000380}}
-.simple-list--complete li, .list p, .item .title, .item--profile--small .profile-name {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000380}}
+.simple-list--complete li, .list p, .item .title, .item .url, .item--profile--small .profile-name {
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
@@ -308,22 +303,22 @@ em {
 /*------------------------------------*\
     Text Colors
 \*------------------------------------*/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000389}}
 .stat-label, .simple-list li, .item .simple-list--complete li a, .item .date, .profile-meta, .profile-login, .profile-company {
   color: #909090;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000390}}
 .meta {
   color: #b2b2b2;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000391}}
-.list, .item .forked, .item .description {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000391}}
+.list, .item .description {
   color: #5d5d5d;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000392}}
 .bar-title a, .item--profile--small .profile-name {
   color: white;
 }
@@ -331,7 +326,7 @@ em {
 /*------------------------------------*\
     Sprites
 \*------------------------------------*/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\0000398}}
 .icon {
   text-indent: -119988px;
   overflow: hidden;
@@ -348,7 +343,7 @@ em {
   vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_shared\.scss}line{font-family:\00003113}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_shared\.scss}line{font-family:\00003113}}
 i.icon,
 img.icon {
   display: inline-block;
@@ -357,76 +352,76 @@ img.icon {
   max-width: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/icon\/\*\.png}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/icon\/\*\.png}line{font-family:\0000363}}
 .icon-sprite, .icon-fork, .icon-marker, .icon-star {
   background: url('../images/icon-s7198ae302d.png') no-repeat;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000377}}
 .icon-fork {
   background-position: 0 0;
   height: 16px;
   width: 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000377}}
 .icon-marker {
   background-position: 0 -32px;
   height: 40px;
   width: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000377}}
 .icon-star {
   background-position: 0 -16px;
   height: 16px;
   width: 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\000032}}
 .container {
   margin: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\000036}}
 .items {
   *zoom: 1;
   padding: 0.5em 0 0 0.5em;
   max-width: 76em;
   margin: 0 auto;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/\.rvm\/gems\/ruby-1\.9\.3-p125\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/\.rvm\/gems\/ruby-1\.9\.3-p374\/gems\/compass-0\.13\.alpha\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
 .items:after {
   content: "";
   display: table;
   clear: both;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000311}}
 .items [aura-hull-widget] {
   display: inline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000313}}
 .shape {
   position: relative;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000319}}
 .item .content {
   padding: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000323}}
 .item .content > :last-child {
   margin-bottom: 0em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000328}}
 .item:hover .title,
 .item .content a {
   color: #008cdd;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000332}}
 .item-content {
   -webkit-background-clip: padding;
   -moz-background-clip: padding;
@@ -439,8 +434,12 @@ img.icon {
   margin: 0 0.5em 0.5em 0;
   display: block;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000341}}
+.item-content[data-href] {
+  cursor: pointer;
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000344}}
 .bar {
   background-color: #98a7b5;
   color: white;
@@ -448,23 +447,23 @@ img.icon {
   border: 4px 4px 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000350}}
 .bar-title {
   font-size: 1em;
   line-height: 1.5em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000352}}
 .bar-title a {
   font-size: 0.8125em;
   line-height: 1.846153846153846em;
   opacity: .7;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000356}}
 .bar-title a:hover {
   opacity: 1;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000362}}
 .metas {
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(100%, rgba(255, 255, 255, 0.5)));
   background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5));
@@ -482,7 +481,7 @@ img.icon {
   border-radius: 0 0 4px 4px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000374}}
 .meta {
   position: relative;
   font-size: 0.75em;
@@ -491,44 +490,44 @@ img.icon {
   padding: 0.5em 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000382}}
 .meta + .meta {
   margin-left: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000386}}
 .meta--fork .icon-fork {
   position: relative;
   top: -2px;
   opacity: .25;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000392}}
 .meta--star .icon-star {
   position: relative;
   top: -2px;
   opacity: .25;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\0000399}}
 .simple-list li {
   margin-bottom: 0.375em;
   font-size: 1em;
   line-height: 1.5em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003103}}
 .simple-list li span {
   font-size: 0.875em;
   line-height: 1.7142857142857142em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003109}}
 .simple-list--complete li {
   font-size: 0.8125em;
   line-height: 1.846153846153846em;
   margin-bottom: 0.15000000000000002em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003117}}
 .simple-list--complete .icon {
   opacity: .25;
   margin-right: 6px;
@@ -536,28 +535,28 @@ img.icon {
   top: -2px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003123}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003124}}
 .list {
   margin-top: 0.75em;
   margin-bottom: 0em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003128}}
 .list li {
   margin-bottom: 0.375em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003131}}
 .list .list-title {
   font-size: 0.875em;
   line-height: 1.7142857142857142em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003134}}
 .list p {
   font-size: 0.6875em;
   line-height: 2.1818181818181817em;
   margin-bottom: 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003140}}
 .item .title {
   font-size: 1em;
   line-height: 1.5em;
@@ -565,20 +564,27 @@ img.icon {
   margin-bottom: 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003146}}
-.item .forked {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003147}}
+.item .url {
   font-size: 0.75em;
   line-height: 2em;
   margin-bottom: 0em;
+  color: #008cdd;
+  display: inline-block;
+  max-width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003154}}
+.item .url:hover {
+  text-decoration: underline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003158}}
 .item .date {
   margin-bottom: 0em;
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003163}}
 .item .description {
   font-size: 0.875em;
   line-height: 1.7142857142857142em;
@@ -586,18 +592,18 @@ img.icon {
   margin-bottom: 0em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003169}}
 .item .description + .date {
   margin-top: 0.75em;
 }
 
 /* Specific item */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003168}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003175}}
 .item--centered .shape {
   height: 0;
   padding: 0 0 50% 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003172}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003179}}
 .item--centered .content {
   position: absolute;
   top: 0px;
@@ -607,7 +613,7 @@ img.icon {
   width: 100%;
   height: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003178}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003185}}
 .item--centered .content:before {
   content: '';
   display: inline-block;
@@ -615,7 +621,7 @@ img.icon {
   vertical-align: middle;
   margin-right: -0.25em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003186}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003193}}
 .item--centered .item-content {
   position: absolute;
   top: 0px;
@@ -623,18 +629,18 @@ img.icon {
   bottom: 0px;
   left: 0px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003189}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003196}}
 .item--centered .centered {
   display: inline-block;
   vertical-align: middle;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003196}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003203}}
 .item--profile--small .shape {
   height: 0;
   padding: 0 0 100% 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003200}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003207}}
 .item--profile--small .content {
   position: absolute;
   top: 0px;
@@ -643,7 +649,7 @@ img.icon {
   width: 100%;
   height: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003206}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003213}}
 .item--profile--small .item-content {
   position: absolute;
   top: 0px;
@@ -654,27 +660,27 @@ img.icon {
   background-repeat: no-repeat;
   background-size: cover;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003212}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003219}}
 .item--profile--small .profile-name {
   font-size: 1.125em;
   line-height: 1.3333333333333333em;
   padding: 0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003228}}
 .item--profile--complete .content {
   position: relative;
   background-color: white;
   border-radius: 4px 4px 0 0;
   z-index: 2;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003227}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003234}}
 .item--profile--complete .metas {
   z-index: 2;
   background: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003232}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003239}}
 .profile-gradient {
   position: absolute;
   bottom: 0px;
@@ -695,7 +701,7 @@ img.icon {
   padding: 0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003241}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003248}}
 .profile-map {
   display: none;
   position: absolute;
@@ -705,11 +711,11 @@ img.icon {
   left: 0px;
   z-index: 1;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003245}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003252}}
 .profile-map img {
   width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003248}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003255}}
 .profile-map .icon-marker {
   position: absolute;
   top: 50%;
@@ -718,12 +724,12 @@ img.icon {
   margin-top: -20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003256}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003263}}
 .profile-header {
   margin-bottom: 1.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003267}}
 .profile-picture {
   position: relative;
   -webkit-background-clip: padding;
@@ -736,7 +742,7 @@ img.icon {
   overflow: hidden;
   box-shadow: 0 1px 1px white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003276}}
 .profile-picture:before {
   position: absolute;
   top: 0px;
@@ -749,7 +755,7 @@ img.icon {
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.25);
   z-index: 2;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003277}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003284}}
 .profile-picture img {
   position: relative;
   border-radius: 4px;
@@ -758,35 +764,35 @@ img.icon {
   max-width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003285}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003292}}
 .profile-name {
   font-size: 1em;
   line-height: 1.5em;
   color: #333333;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003290}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003297}}
 .profile-meta, .profile-login, .profile-company {
   font-size: 0.8125em;
   line-height: 1.3846153846153846em;
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003295}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003302}}
 .profile-login {
   margin-top: 0.375em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003298}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003305}}
 .profile-login:before {
   content: "@";
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003300}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003307}}
 .profile-company {
   margin-top: 0.75em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003304}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003311}}
 .list-stat--complete {
   margin-top: 0em;
   padding-top: 0.75em;
@@ -795,20 +801,20 @@ img.icon {
 }
 
 @media all and (min-width: 33em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003317}}
   .item {
     width: 50%;
     float: left;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003322}}
   .item--centered .shape,
   .shape {
     height: 0;
     padding: 0 0 100% 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003326}}
   .item-content {
     position: absolute;
     top: 0px;
@@ -816,7 +822,7 @@ img.icon {
     bottom: 0px;
     left: 0px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003328}}
   .item-content footer {
     position: absolute;
     right: 0px;
@@ -824,39 +830,39 @@ img.icon {
     left: 0px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003333}}
   .item--profile--complete .content {
     border-bottom: 1px solid #dddddd;
     box-shadow: inset 0 1px 0 white;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003338}}
   .profile-map {
     display: block;
   }
 }
 @media all and (min-width: 44em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003342}}
   .item {
     width: 33.3333333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003345}}
   .item--wide {
     width: 66.6666666666%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003347}}
   .item--wide .shape {
     padding: 0 0 50% 0;
   }
 }
 @media all and (min-width: 66em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003353}}
   .item {
     width: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/sbellity\/code\/hull\/hull-github\/assets\/sass\/_layout\.scss}line{font-family:\00003349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/victor\/Sites\/hull\.github\.com\/assets\/sass\/_layout\.scss}line{font-family:\00003356}}
   .item--wide {
     width: 50%;
   }

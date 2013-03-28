@@ -68,6 +68,16 @@ define(['text!./repos.html', 'underscore'], function (tpl, _) {
         relativeTime: this.sandbox.relativeTime,
         _: _
       }));
+      this.sandbox.dom.attachEvents(this.events, this);
+    },
+
+    events: {
+      'click .item-content': function(e) {
+        if(!$(e.target).is('a')){
+          var href = e.currentTarget.getAttribute('data-href');
+          window.open(href);
+        }
+      }
     }
   };
 
