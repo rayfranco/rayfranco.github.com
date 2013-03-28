@@ -11,11 +11,11 @@
     <meta name="author" content="" />
 
     <!-- Facebook OpenGraph Data -->
-    <meta property="og:title" content="Open Source @ hull.io" />
-    <meta property="og:description" content="Hull's open source projects" />
-    <meta property="og:image" content="https://secure.gravatar.com/avatar/f647697f3d522d8636d01e3b673a754f?s=600" />
+    <meta property="og:title" content="Rayfranco on github" />
+    <meta property="og:description" content="Rayfranco's open source projects" />
+    <meta property="og:image" content="https://fr.gravatar.com/userimage/2447692/cbdec771310e4431809ad879a11d216b.jpg?size=600" />
 
-    <title>Hull - Open Source</title>
+    <title>RayFranco on github</title>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="assets/css/style.css">
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -26,37 +26,23 @@
 
 <section class="container">
   <div id="items" class="items">
-    <header data-aura-widget="user" data-aura-org="hull"></header> 
-    <ul data-aura-widget="repos" data-aura-org="hull"></ul>
+    <header data-aura-widget="user" data-aura-org="rayfranco"></header> 
+    <ul data-aura-widget="repos" data-aura-org="rayfranco"></ul>
   </div>
 </section>
 
 <script>
   /* --- Stats --- */
   /* Google Analytics */
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36651420-2']);
+  _gaq.push(['_trackPageview']);
 
-  ga('create', 'UA-34606920-5', 'github.com');
-  ga('send', 'pageview');
-
-  /* Chartbeat */
-  var _sf_async_config = { uid: 45890, domain: 'hull.github.com' };
   (function() {
-    function loadChartbeat() {
-      window._sf_endpt = (new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-      document.body.appendChild(e);
-    };
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  </script>
+</script>
 </body>
 </html>
