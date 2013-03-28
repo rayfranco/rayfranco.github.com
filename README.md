@@ -62,3 +62,12 @@ Open in your browser
 
     open http://localhost:3010
 
+## Next steps
+
+Here are a few ideas for further improvement :
+
+* Add statistics widgets
+* Add more details about an user, an organization, a repository…
+* ...
+
+Feel free to fork the project and add your own widget.
