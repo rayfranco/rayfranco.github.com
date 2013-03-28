@@ -9,7 +9,7 @@ module.exports = function(grunt) {
   var SASSDIR = 'assets/sass',
     CSSDIR = 'assets/css',
     IMAGESDIR = 'assets/images/',
-    port = 8000;
+    port = 3010;
 
   var gruntConfig = {
     watch: {

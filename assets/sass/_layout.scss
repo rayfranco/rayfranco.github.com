@@ -38,6 +38,7 @@
     border-radius: 4px;
     margin:0 $base-space/2 $base-space/2 0;
     display:block;
+    &[data-href]{cursor:pointer;}
   }
 
 .bar {
@@ -143,10 +144,16 @@
       @extend %ellipsis;
       @include trailer(0);
   }
-  .item .forked{
+  .item .url{
     @include adjust-font-size-to(12px);
     @include trailer(0);
-    @extend %gray-dark;
+    @extend %ellipsis;
+    color:$brand-light;
+    display:inline-block;
+    max-width:100%;
+    &:hover{
+        text-decoration:underline;
+    }
   }
   .item .date{
     @extend %gray;
