@@ -4,6 +4,7 @@ define(['text!./user.html', 'underscore'], function(tpl, _) {
   return {
     initialize: function() {
       _.bindAll(this);
+      this.options.style = this.options.style || 'small';
       if (this.options.user) {
         this.path = "users/" + this.options.user;
       } else {
