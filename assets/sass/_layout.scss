@@ -3,6 +3,17 @@
   margin: $base-space;
 }
 
+.footer{
+  @include adjust-font-size-to(12px);
+  @extend %gray-dark;
+  text-shadow:0 1px 0 white;
+  padding:0 $base-space*2.5 $base-space*2;
+  a{
+      color:$font-color;
+      &:hover{text-decoration:underline;}
+  }
+}
+
 .items {
   @include pie-clearfix;
   padding: $base-space/2 0 0 $base-space/2;
