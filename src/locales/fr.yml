@@ -1,0 +1,6 @@
+messages:
+  welcome: Bienvenue sur votre application Bourgeon !
+  counter: Vous avez cliqué ce bouton {n} fois
+locales:
+  fr: Français
+  en: Anglais

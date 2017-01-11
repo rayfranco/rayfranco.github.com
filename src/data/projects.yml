@@ -1,0 +1,123 @@
+-
+  brand: Jason Bourne
+  title: Remember Everything
+  by: Stinkdigital & Darewin
+  color: rgb(240, 129, 55)
+  background: ./bourne/bg.jpg
+  paragraphs:
+    - Where were you on that day? What did you do? Who were you with? Can you recall all your past, or some of it has been deleted as Jason Bourne’s?
+    - Thanks to the Jason Bourne immersive experience & its innovative algorithm, challenge your Facebook and Instagram memories through Google Streetview!
+  links:
+    -
+      text: Start the experience
+      href: http://www.remembereverything.com
+  awards:
+    fwa: https://thefwa.com/cases/remember-everything-the-jason-bourne-experience-p2
+    awwwards: http://www.awwwards.com/sites/the-jason-bourne-experience
+  gallery:
+    - ./bourne/01.jpg
+    - ./bourne/02.jpg
+    - ./bourne/03.jpg
+    - ./bourne/04.jpg
+-
+  brand: Canal+
+  title: Being the Bear
+  by: Anonymous & BETC
+  color: rgb(188, 151, 90)
+  background: ./bear/bg.jpg
+  paragraphs:
+    - An interactive website that allows the user to step into the skin of 'Paul Bearman' the legendary hero of the multi-awarded film The Bear.
+    - Choose amongst a variety of scenarios and take over the role of director!
+  links:
+    -
+      text: Start the experience
+      href: https://danslapeaudelours.canalplus.fr/en/
+  awards:
+    fwa: https://thefwa.com/cases/being-the-bear
+    webby: http://webbyawards.com/winners/2015/websites/website-features-and-design/best-use-of-video-or-moving-image/canal-being-the-bear/
+  gallery:
+    - ./bear/01.jpg
+    - ./bear/02.jpg
+    - ./bear/03.jpg
+    - ./bear/04.jpg
+    - ./bear/05.jpg
+-
+  brand: Volkswagen
+  title: Sports car
+  by: Merci Michel & DDB
+  color: rgb(0, 142, 231)
+  background: ./vw/bg.jpg
+  paragraphs:
+    - Video games have defined the way we picture sports cars in the digital world. So what better way to present the VW sports car range than using the same codes, look and feels ?
+    - Optimized for desktop, and
+  links:
+    -
+      text: Visit the website
+      href: http://volkswagensportscar.com
+  awards:
+    fwa: https://thefwa.com/cases/volkswagen-sportscars
+    awwwards: http://www.awwwards.com/volkswagen-sportscars-wins-site-of-the-month-for-march.html
+  gallery:
+    - ./vw/01.jpg
+    - ./vw/02.jpg
+    - ./vw/03.jpg
+    - ./vw/04.jpg
+    - ./vw/05.jpg
+    - ./vw/06.jpg
+    - ./vw/07.jpg
+-
+  brand: Heineken
+  title: Road To The Final
+  by: Anonymous & HLWN
+  color: rgb(56, 178, 43)
+  background: ./rttf/bg.jpg
+  paragraphs:
+    - In order to promote its new sports platform, Heineken organised the biggest juggling contest ever.
+    - The game was playable online, individual or team play with crazy figures to realize and reach the top!
+  awards:
+    fwa: https://thefwa.com/cases/star-experience
+  gallery:
+    - ./rttf/01.jpg
+    - ./rttf/02.jpg
+    - ./rttf/03.jpg
+-
+  brand: Econocom
+  title: Digital for all now
+  by: Merci Michel & Spintank
+  color: rgb(93, 189, 211)
+  background: ./econocom/bg.jpg
+  paragraphs:
+    - Econocom helps the organisations to change, by bringing them the digital's benefits, not tomorrow but now!
+    - We created a colorful interactive experience to spread the Digital For All Now philosophy!
+  awards:
+    fwa: https://thefwa.com/cases/digital-for-all-now
+  gallery:
+    - ./econocom/01.jpg
+    - ./econocom/02.jpg
+    - ./econocom/03.jpg
+    - ./econocom/04.jpg
+    - ./econocom/05.jpg
+    - ./econocom/06.jpg
+    - ./econocom/07.jpg
+    - ./econocom/08.jpg
+-
+  brand: Christmas Experiments
+  title: Moose Rythm & Christmas Island
+  by: Santa Claus & the Elfes
+  color: rgb(234, 68, 55)
+  background: ./christmasxp/bg.jpg
+  paragraphs:
+    - Christmas Experiments is an advent calendar which feature each day a new experiment made with love by digital artists.
+    - I contributed in the first two years of its existence (2012/2013) with these two projects, playing with WebGL, userMedia API for facetracking and WebAudio API for BPM detection and audio merging.
+  # links:
+  #   -
+  #     text: Launch Moose Rythm (2013)
+  #     href: http://rayfran.co/xp/moose-rythm
+  #   -
+  #     text: Launch Christmas Island
+  #     href: http://rayfran.co/xp/christmas-island
+  awards:
+    fwa: https://thefwa.com/cases/christmas-experiments
+  gallery:
+    - ./christmasxp/01.png
+    - ./christmasxp/02.png

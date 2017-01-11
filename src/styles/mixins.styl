@@ -1,0 +1,34 @@
+full()
+  position absolute
+  top 0
+  left 0
+  width 100%
+  height 100%
+
+fullscreen()
+  width 100vw
+  height 100vh
+
+cover()
+  background-position 50% 50%
+  background-size cover
+
+font(type)
+  if type is bold
+    font-family Roboto, sans-serif
+    font-weight 700
+  if type is light
+    font-family 'Roboto Light', sans-serif
+    font-weight 200
+  if type is medium
+    font-family 'Roboto Medium', sans-serif
+    font-style italic
+    font-weight 400
+  if type is black
+    font-family 'Roboto Black', sans-serif
+    font-weight 400
+    letter-spacing -0.02em
+  if type is serif
+    font-family 'Droid Serif'
+    font-style italic
+    font-weight 400
