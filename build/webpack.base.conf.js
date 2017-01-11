@@ -21,6 +21,7 @@ module.exports = {
       'utils': path.resolve(__dirname, './utils'),
       'locales': path.resolve(__dirname, '../src/locales'),
       'src': path.resolve(__dirname, '../src'),
+      'fonts': path.resolve(__dirname, '../src/styles/fonts'),
       'assets': path.resolve(__dirname, '../src/assets'),
       'components': path.resolve(__dirname, '../src/components')
     }
@@ -80,11 +81,7 @@ module.exports = {
       },
       {
         test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
-        loader: 'url',
-        query: {
-          limit: 10000,
-          name: utils.assetsPath('fonts/[name].[hash:7].[ext]')
-        }
+        loader: 'file?name=static/fonts/[name].[hash:7].[ext]'
       }
     ]
   },
